@@ -40,7 +40,7 @@ permalink: /
 
 
 **自分のやりたいテーマに対して少なくとも５個書き出すこと**
-![image](https://github.com/Ryoma0322/GHPages_WebSite/blob/main/assets/images/kangaeruhito.png)
+
 <img src="https://github.com/Ryoma0322/GHPages_WebSite/blob/main/assets/images/kangaeruhito.png" width="50%" height="50%">
 
 > 引用
